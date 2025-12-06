@@ -151,9 +151,9 @@ And what do we see: as an administrator, we have infinite local coins with which
 
 ## Getting Reverse Shell
 
-<img width="217" height="411" alt="image" src="https://github.com/user-attachments/assets/e3627e65-da6a-4777-92fe-31c6c1a04af8" />
-
 Next, in the admin panel we find the Rules section — this is where our attack vector is hiding. This section allows the administrator to set dynamic rules for auction lots. As we discovered earlier when analyzing the source code, these rules are processed through `runkit_function_add()`, which means direct execution of PHP code on the server. You'll see 3 items with timers — the system periodically recalculates rules for active lots, and it's at this moment that our malicious code will be executed.
+
+<img width="217" height="411" alt="image" src="https://github.com/user-attachments/assets/e3627e65-da6a-4777-92fe-31c6c1a04af8" />
 
 Essentially, the mechanism works like this: when the lot update timer triggers, the server takes the string from the `rule` field and executes it as `PHP code`. Classic **Remote Code Execution (RCE)** vulnerability through unsafe user input processing (code injection).
 
